@@ -10,7 +10,14 @@ classes:
   - landing
 ---
 
- Hi I'm Alex, an Electrical & Computer Engineering graduate from NTUA. My interests include Data Science and AI, with a focus in Recommender Systems, Timeseries Analytics and Predictive Modeling. I'm currently working as a Software Engineer in Data at Software Competitiveness International S.A., working on designing and implementing an AI-ready multi-mission archiving system (AIMA) for the European Space Agency (ESA). In the past, I've also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) of ESA.
+ Hi, I'm Alex! 
+
+ I am an [Electrical & Computer Engineering][1] graduate from [NTUA][2]. My interests include Data Science and AI, with a focus in Recommender Systems, Timeseries Analytics and Predictive Modeling. I'm currently working as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system (AIMA) for the European Space Agency ([ESA][4]). In the past, I've also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) of [ESA][4].
+
+[1]: https://www.ece.ntua.gr
+[2]: https://www.ntua.gr
+[3]: https://www.softcom-int.com
+[4]: https://www.esa.int
 
 <!-- A data-driven personal website
 ======

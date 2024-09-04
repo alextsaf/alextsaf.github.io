@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  -title: "About"
+  - title: "About"
     url: /files/Alex_Tsafos_CV.pdf
-    
+
   # - title: "Guide"
   #   url: /markdown/

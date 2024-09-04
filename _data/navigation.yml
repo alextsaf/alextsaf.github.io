@@ -19,11 +19,11 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+      
   - title: "About"
+    url: /
+  
+  - title: "CV"
     url: /files/Alex_Tsafos_CV.pdf
 
   # - title: "Guide"

@@ -20,8 +20,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
+    
+  -title: "About"
+    url: /files/Alex_Tsafos_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/

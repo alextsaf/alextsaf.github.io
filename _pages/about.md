@@ -14,7 +14,7 @@ classes:
 
 I am a Junior Researcher at the [Information Management Unit (IMU)][6] at [NTUA][2]. I am a part of EU-funded [Swarmchestrate](https://www.swarmchestrate.eu), where I am currently working on Complex Event Processing for Swarm-based systems in the Cloud-to-Edge continuum.
 
-I have co-created [CaLT][https://www.calt.gr], an event recommendation app providing personalized cultural, educational, and volunteering suggestions for the citizens of Athens. We are part of an accelerator and **about to launch**!
+I have co-created [CaLT](https://www.calt.gr), an event recommendation app providing personalized cultural, educational, and volunteering suggestions for the citizens of Athens. We are part of an accelerator and **about to launch**!
 
 In the past, I worked as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system for the [ESA][4]-funded project "AIMA". I also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) project, funded by [ESA][4].
 
@@ -26,8 +26,8 @@ My personal research interests lie in Information Access, Personalisation, and L
 - Ways to implement human-centered tools, such as Recommender Systems
 
 
-**I'm looking for a PhD!** I am currently in search of PhD or Research positions on Recommender Systems and/or Human-Centered AI. Can you help? 
-{: .notice--info}
+<span style="color:#222"><span style="font-weight:bold">I'm looking for a PhD!</span> I am currently in search of PhD or Research positions on Recommender Systems and/or Human-Centered AI. Can you help?</span> 
+{: .notice--danger}
 
 
 [1]: https://www.ece.ntua.gr

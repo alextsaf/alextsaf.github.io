@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Alex Tsafos"
 title_separator          : "-"
-name                     : &name "Alexandros Tsafos"
+name                     : &name "Alex Tsafos"
 description              : &description "Data Software Engineer"
 url                      : https://alextsaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "alextsaf/alextsaf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Alexandros (Alex) Tsafos"
+  name             : "Alex Tsafos"
   pronouns         : # example: "she/her"  
   bio              : #"Data Software Engineer"
   location         : "Athens, Greece"

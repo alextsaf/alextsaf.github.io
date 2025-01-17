@@ -12,12 +12,30 @@ classes:
 
  Hi, I'm Alex! 
 
- I am an [Electrical & Computer Engineering][1] graduate from [NTUA][2]. My interests include Data Science and AI, with a focus in Recommender Systems, Timeseries Analytics and Predictive Modeling. I'm currently working as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system (AIMA) for the European Space Agency ([ESA][4]). In the past, I've also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) of [ESA][4].
+I am a Junior Researcher at the [Information Management Unit (IMU)][6] at [NTUA][2]. I am a part of EU-funded [Swarmchestrate](https://www.swarmchestrate.eu), where I am currently working on Complex Event Processing for Swarm-based systems in the Cloud-to-Edge continuum.
+
+I have co-created [CaLT][https://www.calt.gr], an event recommendation app providing personalized cultural, educational, and volunteering suggestions for the citizens of Athens. We are part of an accelerator and **about to launch**!
+
+In the past, I worked as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system for the [ESA][4]-funded project "AIMA". I also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) project, funded by [ESA][4].
+
+I am an [Electrical & Computer Engineering][1] Master's graduate from [NTUA][2]. My Thesis supervisor was [Dimitrios Tsoumakos][5]. 
+
+My personal research interests lie in Information Access, Personalisation, and LLMs. Specifically, I like to explore:
+- How people interact with AI and Information Access Tools
+- How LLMs can be incorporated in Personalisation and Recommendation tasks.
+- Ways to implement human-centered tools, such as Recommender Systems
+
+
+**I'm looking for a PhD!** I am currently in search of PhD or Research positions on Recommender Systems and/or Human-Centered AI. Can you help? 
+{: .notice--info}
+
 
 [1]: https://www.ece.ntua.gr
 [2]: https://www.ntua.gr
 [3]: https://www.softcom-int.com
 [4]: https://www.esa.int
+[5]: http://www.cslab.ece.ntua.gr/~dtsouma/
+[6]: http://imu.ntua.gr/wp/
 
 <!-- A data-driven personal website
 ======

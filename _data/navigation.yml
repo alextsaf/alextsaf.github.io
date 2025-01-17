@@ -24,7 +24,7 @@ main:
     url: /
   
   - title: "CV"
-    url: /files/Alex_Tsafos_CV.pdf
+    url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/

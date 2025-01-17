@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : #"Alexandros (Alex) Tsafos"
+title                    : "Alex Tsafos"
 title_separator          : "-"
 name                     : &name "Alexandros Tsafos"
 description              : &description "Data Software Engineer"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Alexandros (Alex) Tsafos"
   pronouns         : # example: "she/her"  
-  bio              : "Data Software Engineer"
+  bio              : #"Data Software Engineer"
   location         : "Athens, Greece"
   employer         : #"Red Brick University"
   uri              : # URL

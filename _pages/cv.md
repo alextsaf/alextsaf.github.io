@@ -63,8 +63,8 @@ Athens, Attiki, Greece
 ---
 
 ## Competitions
-- **14th National ECE Conference CODE: 1st Place** | Three-hour hackathon, consisted of five algorithmic problems of increasing difficulty. Won, passing 24/25 total test cases.
-- **Zero Robotics Finalists: ISS Finals** | Competition for High School Students. Programming (in C) SPHERES satellites for a NASA mission. Finalists (twice, as a member of Zanneio Stardust), in the live championship aboard the International Space Station.
+- **14th National ECE Conference CODE: 1st Place** \| Three-hour hackathon, consisted of five algorithmic problems of increasing difficulty. Won, passing 24/25 total test cases.
+- **Zero Robotics Finalists: ISS Finals** \| Competition for High School Students. Programming (in C) SPHERES satellites for a NASA mission. Finalists (twice, as a member of Zanneio Stardust), in the live championship aboard the International Space Station.
 
 
 ---

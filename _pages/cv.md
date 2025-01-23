@@ -55,7 +55,8 @@ Athens, Attiki, Greece
 ## Other
 
 ### Co-Creator of [CaLT](https://www.calt.gr)
-**Idea:** Calt is an event recommendation app providing personalized cultural, educational, and volunteering suggestions
+**Idea:** Calt is an event recommendation app providing personalized cultural, educational, and volunteering suggestions.
+
 **Awards:** 
 - Won 3rd place in the Innovation Attica Hackathon 2024 among 18 teams (1000€ prize)
 - Won 5th place in the first Apps4Athens Hackathon of Athens Municipality among 44 teams  

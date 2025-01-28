@@ -26,8 +26,6 @@ My personal research interests lie in Information Access, Personalisation, and L
 - Ways to implement human-centered tools, such as Recommender Systems
 
 
-<span style="color:#222"><span style="font-weight:bold">I'm looking for a PhD!</span> I am currently in search of PhD or Research positions on Recommender Systems and/or Human-Centered AI. Can you help?</span> 
-{: .notice--danger}
 
 
 [1]: https://www.ece.ntua.gr

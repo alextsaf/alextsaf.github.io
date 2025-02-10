@@ -26,17 +26,17 @@ Athens, Attiki, Greece
 ## Experience
 
 ### Information Management Unit, NTUA  
-**Research Assistant** (11/2023 - Present)  
+<i>Research Assistant (11/2023 - Present)  </i>
 - Conducting research for the EU-funded "SWARMCHESTRATE" project, focusing on Swarm-based orchestration in the Cloud-to-Edge continuum.  
 - Extended EMS (Complex Event Management System) for Swarm Computing systems using Java, Oasis TOSCA, Docker, and Kubernetes.  
 
 ### Software Competitiveness International S.A.  
-**Junior Software Engineer (Data)** (01/2024 - 12/2024)  
+<i>Junior Software Engineer (Data) (01/2024 - 12/2024)  </i>
 - Analyzed Cloud offerings (AWS, GCP, MS) to design and implement ESA's AI-ready multi-mission archiving ("AIMA").  
 - Built timeseries forecasting and anomaly detection systems using Python, Pandas, Tensorflow, Keras, and Git on ESA's MALT-P project.
 - Reported directly to technical owners and engaged with ESA stakeholders across disciplines.  
 
-**Junior Software Engineer** (04/2022 - 01/2024)  
+<i>Junior Software Engineer** (04/2022 - 01/2024)  </i>
 - Maintained and improved ARM Linux software for an external major Telecommunications customer using C/C++, Scala, Bash, Python, and Git.
 - Enchanched the product's functionality by designing and implementing TWAMP as a new protocol feature to measure network connections' performance.
 
@@ -45,10 +45,15 @@ Athens, Attiki, Greece
 
 ## Teaching
 
-### National Technical University of Athens  
-**Teaching Assistant** (03/2023 - 01/2023)  
+  {% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+
+
+<!-- ### National Technical University of Athens  
+**Teaching Assistant** (03/2023 - 06/2023)  
 - Delivered weekly SQL lab lectures covering topics like Indexes, Constraints, Joins, and Triggers.  
-- Assisted 50+ undergraduate students with course projects.  
+- Assisted 50+ undergraduate students with course projects.   -->
 
 ---
 
@@ -72,26 +77,3 @@ Athens, Attiki, Greece
 
 ## Languages
 Greek (Native), English (Fluent), German (Basic)  
-
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->

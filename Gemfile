@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem "jekyll-seo-tag"
+  gem 'jekyll-redirect-from'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end

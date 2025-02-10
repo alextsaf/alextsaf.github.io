@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Alex Tsafos"
 title_separator          : "-"
 name                     : &name "Alex Tsafos"
-description              : &description "Personal Website of Alexandros Tsafos (Alex Tsafos), a Data Software Engineer based in Athens, Greece. This website contains information about his research, publications, and projects. His research interests include data science, machine learning, personalization and recommender systems."
+description              : &description "Personal Website of Alexandros Tsafos (Alex Tsafos). This website contains information about his research on data personalization and recommender systems."
 url                      : https://alextsaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alextsaf/alextsaf.github.io"
@@ -221,7 +221,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  news:
+    output: true
+    permalink: /collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -250,7 +252,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
+      comments: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -259,7 +270,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -305,6 +316,7 @@ plugins:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jekyll-gist
   - jekyll-feed
   - jemoji

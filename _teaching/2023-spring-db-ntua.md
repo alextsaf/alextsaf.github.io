@@ -7,6 +7,7 @@ venue: "National Technical Unisversity of Athens"
 year: "'23"
 semester: "spring" 
 location: "Athens, Greece"
+share: False
 ---
 
 Teaching assistant for the course's lab:

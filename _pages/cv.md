@@ -25,6 +25,27 @@ Athens, Attiki, Greece
 
 ## Experience
 
+### Growth Shop
+<i>AI Systems Engineer (05/2025 - Present)</i>
+
+- Leading the architecture and implementation of Growth Shop's prescriptive intelligence layer, transforming manual growth decision-making into automated, scalable systems.
+- Designing and deploying backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) to drive operational decisions at scale.
+- Building pipelines turning unstructured data into growth recommendations using RAG, vector search, embeddings, and custom decision logic.
+- Developing internal tools and lightweight UIs (Streamlit) to manage, monitor, and steer intelligent systems.
+- Collaborating cross-functionally with product, SEO, and CRM teams to align automation with business outcomes.
+
+### CALT
+<i>Co-Founder (02/2025 - Present)</i>
+
+- Building a social-first app for personalized event discovery helping citizens cut through fragmented event listings and discover cultural experiences.
+- Empowering event organizers with precision targeting and real-time engagement analytics and advertising.
+- Built real-time recommendation engine using content-based and behavioral filtering.
+- Designed scalable event ingestion pipeline (web-scraped, API-based).
+- Co-led go-to-market strategy and B2B2C offering design.
+- Engaged in user research and UI/UX feedback loops.
+- Metrics: 1,500+ users and 300 DAUs in the first month, 4,000+ saved events and rapidly growing B2B pipeline.
+
+
 ### Information Management Unit, NTUA  
 <i>Research Assistant (11/2023 - Present)  </i>
 - Conducting research for the EU-funded "SWARMCHESTRATE" project, focusing on Swarm-based orchestration in the Cloud-to-Edge continuum.  

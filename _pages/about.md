@@ -12,9 +12,11 @@ classes:
 
  Hi, I'm Alex! 
 
-I am a Junior Researcher at the [Information Management Unit (IMU)][6] at [NTUA][2]. I am a part of EU-funded [Swarmchestrate](https://www.swarmchestrate.eu), where I am currently working on Complex Event Processing for Swarm-based systems in the Cloud-to-Edge continuum.
+I am currently an AI Systems Engineer at [Growth Shop][8] in the UK, where I lead the architecture and implementation of prescriptive intelligence systems that transform manual growth decision-making into automated, scalable solutions. I design and deploy backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) and build pipelines that turn unstructured data into growth recommendations using RAG, vector search, and embeddings.
 
-I have co-created [CaLT](https://www.calt.gr), an event recommendation app providing personalized cultural, educational, and volunteering suggestions for the citizens of Athens. We are part of an accelerator and **about to launch**!
+I am also Co-Founder of [CaLT][10], a social-first app for personalized event discovery that helps citizens cut through the noise of fragmented event listings and discover cultural experiences that match their interests and availability. We've achieved impressive traction with 1,500+ users and 300 DAUs in our first month, along with 4,000+ saved events and a rapidly growing B2B pipeline. **Download it [here][7]!**
+
+I am a Junior Researcher at the [Information Management Unit (IMU)][6] at [NTUA][2]. I am a part of EU-funded [Swarmchestrate][9], where I am currently working on Complex Event Processing for Swarm-based systems in the Cloud-to-Edge continuum.
 
 In the past, I worked as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system for the [ESA][4]-funded project "AIMA". I also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) project, funded by [ESA][4].
 
@@ -32,6 +34,10 @@ My personal research interests lie in Information Access, Personalisation, and L
 [4]: https://www.esa.int
 [5]: http://www.cslab.ece.ntua.gr/~dtsouma/
 [6]: http://imu.ntua.gr/wp/
+[7]: https://onelink.to/3yts3h
+[8]: https://growth.shop
+[9]: https://www.swarmchestrate.eu
+[10]: https://www.calt.gr
 
 <!-- A data-driven personal website
 ======

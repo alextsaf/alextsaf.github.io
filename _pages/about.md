@@ -22,10 +22,10 @@ In the past, I worked as a Software Engineer in Data at [Software Competitivenes
 
 I am an [Electrical & Computer Engineering][1] Master's graduate from [NTUA][2]. My Thesis supervisor was [Dimitrios Tsoumakos][5]. 
 
-My personal research interests lie in Information Access, Personalisation, and LLMs. Specifically, I like to explore:
+My personal research interests lie in Human-Computer Interaction, Personalisation, and LLMs. Specifically, I like to explore:
 - How people interact with AI and Information Access Tools
 - How LLMs can be incorporated in Personalisation and Recommendation tasks.
-- Ways to implement human-centered tools, such as Recommender Systems
+- New ways to implement human-centered AI tools
 
 
 [1]: https://www.ece.ntua.gr

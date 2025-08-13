@@ -12,7 +12,7 @@ classes:
 
  Hi, I'm Alex! 
 
-I am currently an AI Systems Engineer at [Growth Shop][8] in the UK, where I lead the architecture and implementation of prescriptive intelligence systems that transform manual growth decision-making into automated, scalable solutions. I design and deploy backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) and build pipelines that turn unstructured data into growth recommendations using RAG, vector search, and embeddings.
+I am currently an AI Systems Engineer at [Growth Shop][8] in the UK, where I lead the architecture and implementation of prescriptive intelligence systems that transform manual growth decision-making into automated, scalable solutions. I design and deploy backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) and build pipelines that turn unstructured data into growth recommendations using RAG, descriptive analytics, and custom decision logic.
 
 I am also Co-Founder of [CaLT][10], a social-first app for personalized event discovery that helps citizens cut through the noise of fragmented event listings and discover cultural experiences that match their interests and availability. We've achieved impressive traction with 1,500+ users and 300 DAUs in our first month, along with 4,000+ saved events and a rapidly growing B2B pipeline. **Download it [here][7]!**
 

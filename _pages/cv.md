@@ -25,41 +25,31 @@ Athens, Attiki, Greece
 
 ## Experience
 
-### Growth Shop
-<i>AI Systems Engineer (05/2025 - Present)</i>
-
-- Leading the architecture and implementation of Growth Shop's prescriptive intelligence layer, transforming manual growth decision-making into automated, scalable systems.
-- Designing and deploying backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) to drive operational decisions at scale.
-- Building pipelines turning unstructured data into growth recommendations using RAG, vector search, embeddings, and custom decision logic.
-- Developing internal tools and lightweight UIs (Streamlit) to manage, monitor, and steer intelligent systems.
-- Collaborating cross-functionally with product, SEO, and CRM teams to align automation with business outcomes.
-
 ### CALT
-<i>Co-Founder (02/2025 - Present)</i>
+<i>Co-Founder & AI Lead (02/2025 - Present)  </i>
+Athens, Greece
+- Idea: Calt is an app providing personalized event recommendations in a simple feed-based UI/UX.
+- Designed and implemented real-time recommendation engine using content-based and collaborative filtering algorithms, achieving 1,500+ users and 300 DAUs with 4,000+ saved events during beta testing (30 days).
+- Built event ingestion pipeline leveraging web scraping and API integration to aggregate fragmented data sources.
 
-- Building a social-first app for personalized event discovery helping citizens cut through fragmented event listings and discover cultural experiences.
-- Empowering event organizers with precision targeting and real-time engagement analytics and advertising.
-- Built real-time recommendation engine using content-based and behavioral filtering.
-- Designed scalable event ingestion pipeline (web-scraped, API-based).
-- Co-led go-to-market strategy and B2B2C offering design.
-- Engaged in user research and UI/UX feedback loops.
-- Metrics: 1,500+ users and 300 DAUs in the first month, 4,000+ saved events and rapidly growing B2B pipeline.
-
+### GROWTH SHOP
+<i>AI Systems Engineer (05/2025 - 11/2025)  </i>
+London, UK
+- Designed and owned AI system that automated SEO keyword research and blog post generation, reducing cost from 25$ to 1$ per article while maintaining quality, using DataforSEO, ReAct, Crawl4AI, RAG, and custom logic.
+- Implemented a qualitative brand analysis that compares brand values with scraped brand web reviews and recommends the best actions to make them align.
 
 ### Information Management Unit, NTUA  
-<i>Research Assistant (11/2023 - Present)  </i>
-- Conducting research for the EU-funded "SWARMCHESTRATE" project, focusing on Swarm-based orchestration in the Cloud-to-Edge continuum.  
-- Extended EMS (Complex Event Management System) for Swarm Computing systems using Java, Oasis TOSCA, Docker, and Kubernetes.  
+<i>Research Assistant (11/2023 - 10/2025)  </i>
+Athens, Greece
+- Conducting research on EU-funded "SWARMCHESTRATE" project, focusing on Cloud-to-Edge resource monitoring.  
+- Developing Event Managing System for Swarm Computing Systems Monitoring with Java, Docker and Kubernetes.  
 
 ### Software Competitiveness International S.A.  
-<i>Junior Software Engineer (Data) (01/2024 - 12/2024)  </i>
-- Analyzed Cloud offerings (AWS, GCP, MS) to design and implement ESA's AI-ready multi-mission archiving ("AIMA").  
-- Built timeseries forecasting and anomaly detection systems using Python, Pandas, Tensorflow, Keras, and Git on ESA's MALT-P project.
-- Reported directly to technical owners and engaged with ESA stakeholders across disciplines.  
-
-<i>Junior Software Engineer** (04/2022 - 01/2024)  </i>
-- Maintained and improved ARM Linux software for an external major Telecommunications customer using C/C++, Scala, Bash, Python, and Git.
-- Enchanched the product's functionality by designing and implementing TWAMP as a new protocol feature to measure network connections' performance.
+<i>Software Engineer (04/2022 - 12/2024)  </i>
+Athens, Greece
+- Designed and implemented a timeseries forecasting and anomaly detection system to automate the previously manual process using Python, Pandas, Tensorflow, Keras, and Git for the ESA-funded "MALT-P" project.
+- Maintained and improved ARM Linux software for a major Telecommunications customer using C/C++, Scala, Python, and Git.
+- Enhanced the product's functionality by designing and implementing TWAMP as a new protocol feature to measure network connections' performance.
 
 
 ---
@@ -78,20 +68,15 @@ Athens, Attiki, Greece
 
 ---
 
-## Other
-
-### Co-Creator of [CaLT](https://www.calt.gr)
-**Idea:** Calt is an event recommendation app providing personalized cultural, educational, and volunteering suggestions.
-
-**Awards:** 
+## Awards
 - Won 3rd place in the Innovation Attica Hackathon 2024 among 18 teams (1000€ prize)
 - Won 5th place in the first Apps4Athens Hackathon of Athens Municipality among 44 teams  
 
 ---
 
 ## Competitions
-- **14th National ECE Conference CODE: 1st Place** \| Three-hour hackathon, consisted of five algorithmic problems of increasing difficulty. Won, passing 24/25 total test cases.
-- **Zero Robotics Finalists: ISS Finals** \| Competition for High School Students. Programming (in C) SPHERES satellites for a NASA mission. Finalists (twice, as a member of Zanneio Stardust), in the live championship aboard the International Space Station.
+- **14th National ECE Conference CODE: 1st Place** — Three-hour hackathon, consisted of five algorithmic problems of increasing difficulty. Won, passing 24/25 total test cases.
+- **Zero Robotics Finalists: ISS Finals** — Competition for High School Students. Programming (in C) SPHERES satellites for a NASA mission. Finalists (twice, as a member of Zanneio Stardust), in the live championship aboard the International Space Station.
 
 
 ---

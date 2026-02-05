@@ -12,20 +12,18 @@ classes:
 
  Hi, I'm Alex! 
 
-I am currently an AI Systems Engineer at [Growth Shop][8] in the UK, where I lead the architecture and implementation of prescriptive intelligence systems that transform manual growth decision-making into automated, scalable solutions. I design and deploy backend systems integrating LLMs (OpenAI, Claude) with agentic frameworks (LangChain, LangGraph) and build pipelines that turn unstructured data into growth recommendations using RAG, descriptive analytics, and custom decision logic.
+I am currently a **Co-Founder & AI Lead** at [CaLT](7), an event recommendation app providing personalized event suggestions for the citizens of Athens. I designed and implemented a real-time recommendation engine that achieved 1,500+ users and 300 DAUs during beta testing.
 
-I am also Co-Founder of [CaLT][10], a social-first app for personalized event discovery that helps citizens cut through the noise of fragmented event listings and discover cultural experiences that match their interests and availability. We've achieved impressive traction with 1,500+ users and 300 DAUs in our first month, along with 4,000+ saved events and a rapidly growing B2B pipeline. **Download it [here][7]!**
+Previously, I was an AI Systems Engineer at GROWTH SHOP (London), where I designed AI systems for automated SEO and brand analysis, and a Research Assistant at the [Information Management Unit (IMU)][6] at [NTUA][2] working on EU-funded [Swarmchestrate](https://www.swarmchestrate.eu) project focusing on Cloud-to-Edge resource monitoring.
 
-I am a Junior Researcher at the [Information Management Unit (IMU)][6] at [NTUA][2]. I am a part of EU-funded [Swarmchestrate][9], where I am currently working on Complex Event Processing for Swarm-based systems in the Cloud-to-Edge continuum.
-
-In the past, I worked as a Software Engineer in Data at [Software Competitiveness International S.A.][3], working on designing and implementing an AI-ready multi-mission archiving system for the [ESA][4]-funded project "AIMA". I also worked on developing time series forecasting and anomaly detection models, for the Machine Learning Automated Test Processes (MALT-P) project, funded by [ESA][4].
+I have also worked as a Software Engineer at [Software Competitiveness International S.A.][3], designing and implementing timeseries forecasting and anomaly detection systems for the [ESA][4]-funded projects "AIMA" and "MALT-P". I maintained ARM Linux software for major telecommunications customers and enhanced network monitoring capabilities by implementing TWAMP protocol features.
 
 I am an [Electrical & Computer Engineering][1] Master's graduate from [NTUA][2]. My Thesis supervisor was [Dimitrios Tsoumakos][5]. 
 
-My personal research interests lie in Human-Computer Interaction, Personalisation, and LLMs. Specifically, I like to explore:
+My personal research interests lie in Information Access, Personalisation, and LLMs. Specifically, I like to explore:
 - How people interact with AI and Information Access Tools
 - How LLMs can be incorporated in Personalisation and Recommendation tasks.
-- New ways to implement human-centered AI tools
+- Ways to implement human-centered tools, such as Recommender Systems
 
 
 [1]: https://www.ece.ntua.gr
@@ -34,10 +32,7 @@ My personal research interests lie in Human-Computer Interaction, Personalisatio
 [4]: https://www.esa.int
 [5]: http://www.cslab.ece.ntua.gr/~dtsouma/
 [6]: http://imu.ntua.gr/wp/
-[7]: https://onelink.to/3yts3h
-[8]: https://growth.shop
-[9]: https://www.swarmchestrate.eu
-[10]: https://www.calt.gr
+[7]: https://www.calt.gr
 
 <!-- A data-driven personal website
 ======

@@ -12,18 +12,20 @@ classes:
 
  Hi, I'm Alex! 
 
-I am currently a **Co-Founder & AI Lead** at [CaLT](7), an event recommendation app providing personalized event suggestions for the citizens of Athens. I designed and implemented a real-time recommendation engine that achieved 1,500+ users and 300 DAUs during beta testing.
+I am currently a **Co-Founder** at [CaLT][7], a social technology startup for personalized event discovery, where I built a real-time recommendation engine and event intelligence systems.
 
-Previously, I was an AI Systems Engineer at GROWTH SHOP (London), where I designed AI systems for automated SEO and brand analysis, and a Research Assistant at the [Information Management Unit (IMU)][6] at [NTUA][2] working on EU-funded [Swarmchestrate](https://www.swarmchestrate.eu) project focusing on Cloud-to-Edge resource monitoring.
+I also work as a **Founding Engineer** at [Panop][8], building voice-agent infrastructure for EV charging troubleshooting, and as a **Freelance Backend Engineer (AI)** for an ongoing US client.
 
-I have also worked as a Software Engineer at [Software Competitiveness International S.A.][3], designing and implementing timeseries forecasting and anomaly detection systems for the [ESA][4]-funded projects "AIMA" and "MALT-P". I maintained ARM Linux software for major telecommunications customers and enhanced network monitoring capabilities by implementing TWAMP protocol features.
+Previously, I worked as a **Freelance AI Systems Engineer** for Growth Shop (London), where I designed AI systems for automated SEO and brand analysis, and as a Research Assistant at the [Information Management Unit (IMU)][6] at [NTUA][2], working on the EU-funded [Swarmchestrate](https://www.swarmchestrate.eu) project focused on Cloud-to-Edge resource monitoring.
+
+I have also worked as a Software Engineer at [Software Competitiveness International S.A.][3], designing and implementing time-series forecasting and anomaly detection systems for [ESA][4]-funded projects and building network protocol features for telecommunications products.
 
 I am an [Electrical & Computer Engineering][1] Master's graduate from [NTUA][2]. My Thesis supervisor was [Dimitrios Tsoumakos][5]. 
 
-My personal research interests lie in Information Access, Personalisation, and LLMs. Specifically, I like to explore:
+My core interests lie in information access, personalization, and LLM-powered systems. I like to explore:
 - How people interact with AI and Information Access Tools
-- How LLMs can be incorporated in Personalisation and Recommendation tasks.
-- Ways to implement human-centered tools, such as Recommender Systems
+- How LLMs can be incorporated in personalization and recommendation tasks
+- Ways to implement human-centered tools, such as recommender systems
 
 
 [1]: https://www.ece.ntua.gr
@@ -33,6 +35,7 @@ My personal research interests lie in Information Access, Personalisation, and L
 [5]: http://www.cslab.ece.ntua.gr/~dtsouma/
 [6]: http://imu.ntua.gr/wp/
 [7]: https://www.calt.gr
+[8]: https://gopanop.com
 
 <!-- A data-driven personal website
 ======

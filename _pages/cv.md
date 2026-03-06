@@ -15,71 +15,87 @@ classes:
 ## Education
 
 ### National Technical University of Athens  
-**MEng in Electrical & Computer Engineering** (09/2018 - 11/2023)  
-Athens, Attiki, Greece  
-- 5-year Diploma, 300 ECTS
-- **GPA:** 8.10/10.00  
-- **[Thesis](https://github.com/alextsaf/Thesis-NTUA):** Multivariate Computational Load Timeseries Prediction & Resource Provisioning with Machine Learning.  
+**Master of Engineering, Electrical and Computer Engineering** (Graduated: 2023)  
+Athens, Greece
+- **GPA:** 8.1/10
+- Selected coursework grades:
+  - Advanced Topics in Database Systems (10/10)
+  - Analysis & Design of Information Systems (10/10)
+  - Neural Networks & Intelligent Systems (10/10)
+  - Forecasting Techniques (9/10)
+  - Algorithms & Complexity (9/10)
 
 ---
 
 ## Experience
 
-### CALT
-<i>Co-Founder & AI Lead (02/2025 - Present)  </i>
-Athens, Greece
-- Idea: Calt is an app providing personalized event recommendations in a simple feed-based UI/UX.
-- Designed and implemented real-time recommendation engine using content-based and collaborative filtering algorithms, achieving 1,500+ users and 300 DAUs with 4,000+ saved events during beta testing (30 days).
-- Built event ingestion pipeline leveraging web scraping and API integration to aggregate fragmented data sources.
+### Panop
+<i>Founding Engineer (02/2026 - Present)</i>
+Amsterdam, Netherlands
+- Co-developed a voice agent with real-time troubleshooting for EV chargers (FastAPI, Ampeco, Hetzner Cloud, OpenAI, ElevenLabs).
+- Built a web-based dashboard and chat to interact with transcription data (FastAPI, OpenAI Vector Store, React, Supabase).
 
-### GROWTH SHOP
-<i>AI Systems Engineer (05/2025 - 11/2025)  </i>
-London, UK
-- Designed and owned AI system that automated SEO keyword research and blog post generation, reducing cost from 25$ to 1$ per article while maintaining quality, using DataforSEO, ReAct, Crawl4AI, RAG, and custom logic.
-- Implemented a qualitative brand analysis that compares brand values with scraped brand web reviews and recommends the best actions to make them align.
+### Freelance AI Systems Engineer
+<i>Freelancer (05/2025 - Present)</i>
+International (UK / US)
+- For an ongoing US Client, built a multi-tenant AI SaaS assistant that integrates ClickUp, Slack, and Google Workspace to centralize executive briefings and support action-taking workflows.
+- For Growth Shop (UK), designed and owned an AI system that automated SEO keyword research and blog post generation (DataforSEO, GSC, Django, Pinecone, OpenAI, Anthropic, PostgreSQL), reducing cost per article from $25 to $1 while maintaining quality.
+- Implemented a qualitative brand analysis system (Crawl4AI, FastAPI, MongoDB, OpenAI) that compares brand values with scraped web reviews and recommends actions to improve alignment.
+
+### CALT
+<i>Co-Founder (02/2025 - Present)</i>
+Remote
+- Built a real-time recommendation engine (FastAPI, Supabase, pgvector, GCP) using content-based and behavioral filtering for personalized event discovery.
+- Designed a scalable event ingestion pipeline (BeautifulSoup, Selenium, FastAPI) to aggregate fragmented event listings.
+- Led go-to-market strategy and B2B2C offering design for event organizers with precision targeting and real-time engagement analytics.
+- Drove user research and UI/UX feedback loops to optimize product experience.
+- Reached 1,500+ users and 300 DAUs in beta, with 4,000+ saved events and growing B2B pipeline.
+- Designed and built Cue, an event organizing assistant (Crawl4AI, FastAPI, pgvector, GCP, OpenAI) that scaffolds event schedules and matches events to suitable venues.
 
 ### Information Management Unit, NTUA  
 <i>Research Assistant (11/2023 - 10/2025)  </i>
 Athens, Greece
-- Conducting research on EU-funded "SWARMCHESTRATE" project, focusing on Cloud-to-Edge resource monitoring.  
-- Developing Event Managing System for Swarm Computing Systems Monitoring with Java, Docker and Kubernetes.  
+- Conducted research on the EU-funded SWARMCHESTRATE project, focusing on Cloud-to-Edge resource monitoring.
+- Developed an event management system for swarm-based computing systems monitoring using Java, Docker, and Kubernetes.
+- Extended the OASIS TOSCA standard to support Swarmchestrate entities.
 
 ### Software Competitiveness International S.A.  
-<i>Software Engineer (04/2022 - 12/2024)  </i>
+<i>Software Engineer, Full-Time (04/2022 - 12/2024)</i>
 Athens, Greece
-- Designed and implemented a timeseries forecasting and anomaly detection system to automate the previously manual process using Python, Pandas, Tensorflow, Keras, and Git for the ESA-funded "MALT-P" project.
-- Maintained and improved ARM Linux software for a major Telecommunications customer using C/C++, Scala, Python, and Git.
-- Enhanced the product's functionality by designing and implementing TWAMP as a new protocol feature to measure network connections' performance.
+- Led the software team for a major telecommunications customer, supporting products tied to significant annual revenue.
+- Enriched product functionality by designing and implementing TWAMP protocol support for network performance measurement.
+- Contributed to analysis of AWS, GCP, and Microsoft Cloud offerings for ESA's AI-ready multi-mission archiving.
+- Designed and implemented a time-series forecasting and anomaly detection system (Python, Pandas, TensorFlow, Keras) for ESA's MALT-P project.
+- Reported directly to technical owners and ESA stakeholders across disciplines.
 
+### National Technical University of Athens
+<i>Teaching Assistant (03/2023 - 06/2023)</i>
+Athens, Greece
+- Delivered weekly SQL lab lectures for the Databases course (indexes, constraints, joins, triggers, and more).
+- Supported 50+ undergraduate students with coursework and project guidance.
 
----
-
-## Teaching
-
-  {% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-
-
-<!-- ### National Technical University of Athens  
-**Teaching Assistant** (03/2023 - 06/2023)  
-- Delivered weekly SQL lab lectures covering topics like Indexes, Constraints, Joins, and Triggers.  
-- Assisted 50+ undergraduate students with course projects.   -->
 
 ---
 
 ## Awards
-- Won 3rd place in the Innovation Attica Hackathon 2024 among 18 teams (1000€ prize)
-- Won 5th place in the first Apps4Athens Hackathon of Athens Municipality among 44 teams  
+- **Apps4Athens Hackathon: 5th Place** — Innovation marathon focused on the digital transformation of Athens; contributed recommender system design and business model definition; team joined a 6-month incubator.
+- **14th National ECE Conference CODE: 1st Place** — Won by solving 24/25 test cases in a 5-problem algorithmic hackathon.
 
 ---
 
-## Competitions
-- **14th National ECE Conference CODE: 1st Place** — Three-hour hackathon, consisted of five algorithmic problems of increasing difficulty. Won, passing 24/25 total test cases.
-- **Zero Robotics Finalists: ISS Finals** — Competition for High School Students. Programming (in C) SPHERES satellites for a NASA mission. Finalists (twice, as a member of Zanneio Stardust), in the live championship aboard the International Space Station.
+## Projects
+- **[LinkedIn Job Recommender](https://github.com/alextsaf/Linkedin-Personal-Job-Recommender)** — Personal LinkedIn job recommender using web scraping and NLP with TF-IDF weighted Word2Vec embeddings.
+- **[Prediction of ML Operators Performance](https://github.com/alextsaf/Information-Systems-NTUA)** — Built deep learning and regression models to predict GraphX operator CPU, memory, and time usage.
+- **[Neural Networks Projects](https://github.com/alextsaf/Neural-Networks-NTUA)** — Collection of ML projects including disease classification, codon-based species classification, recommender systems, clustering, and image captioning.
+- **[Apache Spark Analytics Benchmarking](https://github.com/alextsaf/Advanced-Database-Systems-NTUA)** — Implemented Spark analytics workloads (DataFrame API and MapReduce) to benchmark DB performance and scalability.
 
 
 ---
 
 ## Languages
-Greek (Native), English (Fluent), German (Basic)  
+Greek (Native), English (C2), German (A2)
+
+---
+
+## Interests
+Recommendation Systems, Knowledge Graphs, Personal Assistants, Hiking, Camping, Cooking, Bouldering

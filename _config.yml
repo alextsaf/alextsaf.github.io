@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Alexandros Tsafos"
-  pronouns         : # example: "she/her"  
-  bio              : #"Data Software Engineer"
+  pronouns         : #"he/him"
+  bio              : "Co-Founder building AI systems for personalization, recommendation, and automation."
   location         : "Athens, Greece"
   employer         : #"Red Brick University"
   uri              : # URL
